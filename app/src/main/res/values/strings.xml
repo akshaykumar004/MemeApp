@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemeApp</string>
+    <string name="shareButton">Share</string>
+    <string name="nextButton">Next</string>
+    <string name="next">Next</string>
+    <string name="share">Share</string>
+</resources>
